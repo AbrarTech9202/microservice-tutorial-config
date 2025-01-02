@@ -1,6 +1,6 @@
 spring:
   application:
-     name: HOTELSERVICE
+     name: CONFIG-CLIENT
 
 eureka:
   client:
